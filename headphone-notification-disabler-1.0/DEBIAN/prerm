@@ -1,0 +1,2 @@
+#!/bin/bash
+plutil -value 1 -key HAENFeatureMandatory -type bool /var/mobile/Library/Preferences/com.apple.coreaudio.device.plist

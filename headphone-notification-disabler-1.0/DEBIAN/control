@@ -1,0 +1,10 @@
+Package: com.alexfree.headphonenotificationdisabler
+Name: Headphone Notification Disabler
+Depends: firmware (>= 14.0), plutil
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable the hidden option to disable the headphone notification for loud music in the Settings app. After installation you must reboot your device. Once it reboots open the Settings app and navigate to Sounds->Headphone Safety. A new option named HeadPhone Notifications will now be available which allows you to turn it off. This option will appear in stock and jailbroken iOS until you remove this package and reboot your device from jailbroken iOS.
+Homepage: https://alex-free.github.io/headphone-notification-disabler
+Maintainer: Alex Free <alex_free@email.com>
+Author: Alex Free <alex_free@email.com>
+Section: Utilities
